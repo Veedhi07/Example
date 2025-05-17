@@ -1,2 +1,2 @@
 # Example
-Author: Veedhi Sharma(Mam)
+Author: Veedhi Sharma
